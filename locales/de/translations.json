@@ -1,0 +1,853 @@
+{
+  "404": {
+    "TITLE": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden."
+  },
+  "ADD_FEATURE": "Hinzufügen",
+  "ALPHA2": {
+    "DE": "Deutsch",
+    "EN": "Englisch",
+    "FR": "Französisch",
+    "IT": "Italienisch",
+    "SV": "Schwedisch"
+  },
+  "APP": {
+    "CLOSE_HELP": "Hilfe schließen",
+    "HELP": "Hilfe",
+    "LOADING": "Lädt ...",
+    "MY_ELECTIONS": "Meine Wahlen",
+    "FEEDBACK": {
+      "LINKTEXT": "Feedback",
+      "MAILTO_MAIL": "feedback@polyas.de",
+      "MAILTO_SUBJECT": "Feedback zum POLYAS Online-Wahl KonfiguratorBETA"
+    }
+  },
+  "APP_ERROR": {
+    "MESSAGE": {
+      "AUTHENTICATION": {
+        "INVALID": "Sie wurden aufgrund von Inaktivität automatisch vom System abgemeldet."
+      },
+      "BALLOTS": {
+        "BALLOTCONFIGURATION": {
+          "NOTFOUNDFORELECTION": "Die Konfiguration des Stimmzettels konnte nicht gefunden werden."
+        }
+      },
+      "ELECTIONS": {
+        "ELECTION": {
+          "NOTFOUND": "Die angeforderte Wahl konnte nicht gefunden werden."
+        }
+      },
+      "GENERAL": {
+        "UNAUTHORIZED": "Sie haben keine Berechtigung diesen Inhalt zu sehen."
+      }
+    }
+  },
+  "BACKEND_ERROR_TITLE": "Ein Serverfehler ist aufgetreten.",
+  "BALLOT_LIST": {
+    "VOTE_INVALID": "Ungültig wählen"
+  },
+  "BALLOT_LIST_SETTINGS": {
+    "ELECTION_RULES": "Wahlregeln",
+    "TABLE": "Stimmzettel"
+  },
+  "CATEGORIES": "Kategorien",
+  "CHANGE_PASSWORD": {
+    "ERROR": {
+      "GENERIC": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+      "VERIFICATION_EXPIRED": "Der Link zum Zurücksetzen des Passworts ist leider nicht mehr gültig. Bitte fordern Sie einen neuen Link an.",
+      "VERIFICATION_WRONG": "Der Link zum Zurücksetzen des Passworts ist leider nicht mehr gültig. Bitte fordern Sie einen neuen Link an."
+    },
+    "LABEL_PASSWORD": "Neues Passwort (mind. 10 Zeichen)",
+    "LABEL_PASSWORDREPEAT": "Neues Passwort wiederholen",
+    "SUBMIT": "Passwort speichern",
+    "SUCCESS": "Ihr Passwort wurde erfolgreich geändert."
+  },
+  "CHECKOUT": {
+    "BASECOST": "Basiskosten",
+    "EXECUTE_PAY_WITH_PAYPAL": "Wahl jetzt bezahlen",
+    "PAYMENT_LANDING_MODAL": {
+      "CANCEL": {
+        "TEXT": "Der Zahlungsvorgang wurde abgebrochen.",
+        "TITLE": "Zahlungsvorgang abgebrochen"
+      },
+      "CHECKOUT": {
+        "TITLE": "Zahlungsvorgang abschließen"
+      },
+      "FAILURE": {
+        "TEXT": "Der Zahlungsvorgang konnte nicht abgeschlossen werden.",
+        "TITLE": "Während des Zahlungsvorgangs ist ein Fehler aufgetreten."
+      }
+    },
+    "PAY_WITH_PAYPAL": "Wahl per PayPal bezahlen.",
+    "REDIRECT_TO_PAYPAL": "Sie werden zu PayPal weitergeleitet...",
+    "START_ELECTION": "Wahl starten",
+    "SUM": "Gesamtsumme",
+    "SUM_NET": "Summe netto",
+    "VOTER_AMOUNT": "Anzahl Wahlberechtigte"
+  },
+  "COMING_SOON": "Demnächst verfügbar",
+  "CONFIRMATION_TITLE": "Bestätigung",
+  "DASHBOARD": {
+    "CREATE_ELECTION": "Neue Wahl",
+    "DELETE_MODAL": {
+      "CONFIRM_LABEL": "Löschen",
+      "TEXT": "Soll diese Wahl wirklich unwiederbringlich gelöscht werden? Alle Daten dieser Wahl gehen dabei verloren und können nicht wiederhergestellt werden.",
+      "TITLE": "Wahl löschen"
+    },
+    "DOWNLOAD_REPORT": "Wahlergebnis (PDF)",
+    "TILE_ACTIONS": {
+      "COPY": "Duplizieren",
+      "DELETE": "Wahl löschen",
+      "EDIT": "Bearbeiten"
+    },
+    "TITLE": "Meine Wahlen"
+  },
+  "DOCUMENT_TITLE": {
+    "404": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden.",
+    "APP": "POLYAS - Sichere Online-Wahlen und Abstimmungen",
+    "CHANGE_PASSWORD": "Neues Passwort speichern",
+    "DASHBOARD": "Meine Wahlen",
+    "ELECTION_DETAILS": "Wahldetails",
+    "FEATURE_OVERVIEW": "Magic Features",
+    "LOGGED_OUT": "Sie wurden abgemeldet.",
+    "THANKYOU": "Vielen Dank für Ihre Bestellung.",
+    "VALIDATE_EMAIL": "E-Mail Adresse bestätigen"
+  },
+  "ELECTION": {
+    "END_DATE_PLACEHOLDER_TEXT": "Ende",
+    "MONTH_FORMAT": "MMMM YYYY",
+    "STARTS_NOW": "Manueller Wahlstart",
+    "START_DATE_PLACEHOLDER_TEXT": "Manueller Wahlstart",
+    "TIMESPAN_TO": "bis",
+    "VALIDATION": {
+      "NOTRIGGERDATES": "Der Wahlzeitraum ist nicht korrekt angegeben."
+    },
+    "SCHEDULE": {
+      "START": "Wahlstart",
+      "END": "Wahlende"
+    }
+  },
+  "ELECTION_DETAILS": {
+    "START_ELECTION": "Wahl starten"
+  },
+  "ELECTION_SETTINGS": {
+    "ALLOW_INVALID": "Ungültig wählen erlaubt",
+    "OVERALL_VOTES": "Stimmen gesamt",
+    "VOTES_PER_ROW": "Stimmen pro Zeile"
+  },
+  "ELECTION_STATUS": {
+    "COUNTED": "Die Auszählung ist beendet.",
+    "COUNTING": "Ihre Wahl wird gerade ausgezählt ...",
+    "DELETING": "Wird gelöscht",
+    "EDITING": "In Bearbeitung",
+    "ENDED": "Beendet",
+    "ENDING": "Ihre Wahl wird beendet.",
+    "FORE_RUN": "Ihre Wahl ist jetzt bereit.",
+    "PROVISIONING": "Ihre Wahl wird aktiviert.",
+    "PROVISIONING_FAILED": "Die Aktivierung Ihrer Wahl ist fehlgeschlagen. Bitte kontaktieren Sie den POLYAS Support.",
+    "READY_FOR_SEALING": "Ihre Wahl ist bereit zum Versiegeln.",
+    "RUNNING": "Ihre Wahl befindet sich in der Durchführung.",
+    "SEALED": "Ihre Wahl wurde erfolgreich versiegelt.",
+    "SEALING": "Ihre Wahl wird versiegelt.",
+    "SEALING_FAILED": "Versiegeln der Wahl fehlgeschlagen.",
+    "STARTING": "Ihre Wahl wird gestartet...",
+    "VALIDATING": "Ihre Wahleinstellungen werden überprüft.",
+    "VALIDATION_FAILED": "Überprüfung der Wahleinstellungen fehlgeschlagen."
+  },
+  "ERROR": {
+    "REGISTRY": {
+      "VOTER": {
+        "EMAILALREADYEXISTS": "Die eingegebene E-Mail Adresse befindet sich bereits im Wählerverzeichnis.",
+        "EMAILINVALID": "Die eingegebene E-Mail Adresse ist nicht gültig."
+      }
+    }
+  },
+  "FEATURE": {
+    "ACCESSIBILITY": {
+      "DESCRIPTION": "Vel, dolor. Consequatur pariatur animi eligendi totam maxime dolor molestias?",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "ul",
+          "value": [
+            {
+              "type": "li",
+              "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+            },
+            {
+              "type": "li",
+              "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+            },
+            {
+              "type": "li",
+              "value": [
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!",
+                {
+                  "type": "br"
+                },
+                {
+                  "type": "br"
+                },
+                {
+                  "type": "br"
+                },
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+              ]
+            },
+            {
+              "type": "li",
+              "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+            },
+            {
+              "type": "li",
+              "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+            }
+          ]
+        }
+      ],
+      "NAME": "Barrierefreiheit"
+    },
+    "CANDIDATE_IMAGES": {
+      "DESCRIPTION": "Fotos im Stimmzettel geben Ihren Wählern die Möglichkeit, \nsich ein Bild von den Kandidaten zu machen.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Binden Sie Fotos der Kandidaten oder Wahloptionen in Ihre Stimmzettel ein und geben Sie den Wahlberechtigten so die Möglichkeit sich ein umfassendes Bild von den Kandidaten zu machen. So ermöglichen Sie den Kandidaten, sich persönlicher vorzustellen, was die Wahlentscheidung der Wähler vereinfacht und die Wahlbeteiligung steigert."
+        },
+        {
+          "type": "strong",
+          "value": "So funktioniert's:"
+        },
+        {
+          "type": "p",
+          "value": "Laden Sie die Fotos als Bilddatei in einheitlichen Größen hoch."
+        },
+        {
+          "type": "strong",
+          "value": "Voraussetzungen für das Hochladen: "
+        },
+        {
+          "type": "ul",
+          "value": [
+            {
+              "type": "li",
+              "value": "Format: .jpg, .png"
+            },
+            {
+              "type": "li",
+              "value": "Dateigröße: bis zu 1 MB"
+            }
+          ]
+        }
+      ],
+      "NAME": "Bilder im Stimmzettel"
+    },
+    "CUSTOM_COLOR_SCHEME": {
+      "DESCRIPTION": "Wählen Sie ein Farbschema für Ihre Online-Wahl und steigern Sie den \nWiedererkennungswert.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Möchten Sie das POLYAS Online-Wahlsystem farblich anders gestalten, können Sie das voreingestellte Farbschema ändern. So steigern Sie den Wiedererkennungswert Ihrer Wahl."
+        },
+        {
+          "type": "br"
+        },
+        {
+          "type": "strong",
+          "value": "So funktioniert's: "
+        },
+        {
+          "type": "p",
+          "value": "Mithilfe der POLYAS Farbschemata können Sie mit nur einem Klick ändern, wie die Oberfläche des Online-Wahlsystems für Wahlberechtigte aussieht. Die ausgewählte Farbgebung wird für Hintergrund-, Schrift- und Button-Farben der Stimmzettel übernommen."
+        }
+      ],
+      "NAME": "Farbschema wählen"
+    },
+    "CUSTOM_DESIGN": {
+      "DESCRIPTION": "Personalisieren Sie Ihre Online-Wahl und richten Sie das System in Ihrem Corporate Design ein.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Das Design des POLYAS Online-Wahlsystems wird an die Farbwerte Ihrer Institution angepasst. \nAuf diese Weise steigern Sie den Wiedererkennnungswert Ihrer Online-Wahl und erhöhen zugleich das Zugehörigkeitsgefühl der Wahlberechtigten."
+        },
+        {
+          "type": "strong",
+          "value": "So funktioniert's: "
+        },
+        {
+          "type": "p",
+          "value": [
+            {
+              "type": "span",
+              "value": "Sie können folgende Elemente im Online-Wahlsystem anpassen:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "value": [
+            {
+              "type": "li",
+              "value": "Hintergrundfarbe"
+            },
+            {
+              "type": "li",
+              "value": "Schriftfarben"
+            },
+            {
+              "type": "li",
+              "value": "Buttonfarben"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "value": "Zudem wird Ihr Logo in das Online-Wahlsystem eingebunden. Sie benötigen nur die Farb-Codes (HEX) Ihres Designs und Ihr Logo als .png oder .jpg Datei."
+        }
+      ],
+      "NAME": "Ihr Design im Online-Wahlsystem"
+    },
+    "CUSTOM_LOGO": {
+      "DESCRIPTION": "Integrieren Sie ihr Logo in das POLYAS Online-Wahlsystem und personalisieren Sie Ihre Online-Wahl.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Fügen Sie Ihr Logo im POLYAS Online-Wahlsystem hinzu, um Ihre Online-Wahl benutzerdefiniert zu gestalten. Ein hinzugefügtes Logo erscheint oben auf jeder Seite der Online-Wahl. So steigern Sie das Zugehörigkeitsgefühl Ihrer Wahlberechtigten."
+        },
+        {
+          "type": "strong",
+          "value": "So funktioniert's:"
+        },
+        {
+          "type": "p",
+          "value": "Laden Sie ihr Logo als Bilddatei hoch."
+        },
+        {
+          "type": "strong",
+          "value": "Vorraussetzungen für das Hochladen:"
+        },
+        {
+          "type": "ul",
+          "value": [
+            {
+              "type": "li",
+              "value": "Format: .jpg, .png"
+            },
+            {
+              "type": "li",
+              "value": "Dateigröße: bis zu 1 MB"
+            }
+          ]
+        }
+      ],
+      "NAME": "Ihr Logo im Online-Wahlsystem"
+    },
+    "CUSTOM_TEXTS": {
+      "DESCRIPTION": "Passen Sie die angezeigten Nutzerinformationen im Online-Wahlsystem an.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Sie können in Ihrer Online-Wahl sämtliche Texte anpassen und ergänzen, sodass die Wahlberechtigten mehr Kontext oder eine Beschreibung erhalten. Sie können mit Textinhalt z. B. Informationen rund um Ihre Wahl erstellen, weiterführende Links hinzufügen und vieles mehr.\nAuf diese Weise können Sie die Wähler persönlich ansprechen und steigern den Wiedererkennungswert Ihrer Wahl. Sie wollen bereits jetzt die Möglichkeit nutzen die Texte im Online-Wahlsystem anzupassen? Kontaktieren Sie die POLYAS Wahlexperten!"
+        }
+      ],
+      "NAME": "Eigene Texte im Online-Wahlsystem"
+    },
+    "CUSTOM_URL": {
+      "DESCRIPTION": "Leiten Sie die Wähler nach Abschluss der Stimmabgabe auf\n eine von Ihnen gewünschte Website weiter.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Sie können die Seite festlegen, die die Wahlberechtigten nach Abschluss Ihrer Online-Stimmabgabe sehen. \nDies kann zum Beispiel Ihre Homepage, eine Landing Page zu Ihrer Wahl oder auch eine Danke-Seite sein."
+        }
+      ],
+      "NAME": "Letzte Seite der Stimmabgabe"
+    },
+    "CUSTOM_VOTER_COVER_LETTER": {
+      "DESCRIPTION": "Sprechen Sie die Wahlberechtigten mit einer personalisierten Wahleinladung \nindividuell an.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Ändern Sie die Texte Ihrer E-Mail-Einladungen, um an die Wahlberechtigten angepasste E-Mail-Einladungen, Erinnerungs- oder Danke-E-Mails zum Nachfassen zu senden, die Analyse der E-Mails zu überwachen und nachzuverfolgen, wer an der Online-Wahl teilgenommen hat.\nSie benötigen schon jetzt personalisierte Texte in Ihrer Wahleinladung? Die POLYAS Wahlexperten beraten Sie gerne. Kontaktieren Sie uns!"
+        }
+      ],
+      "NAME": "Personalisierte Wahleinladungen"
+    },
+    "DATACENTER": {
+      "DESCRIPTION": "Eius quos illum qui odio libero, at suscipit ratione. Iste.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "Rechenzentrum"
+    },
+    "INVITATIONS": {
+      "DESCRIPTION": "Weitere Benutzer können eingeladen werden, an der aktuellen Wahl ebenfalls mitzuwirken (konfigurieren, bezahlen, versiegeln, auszählen etc.)",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "Weitere Benutzer einladen"
+    },
+    "LIST_ELECTION": {
+      "DESCRIPTION": "Verwenden Sie das Template für den Stimmzettel \"Listenwahl\".",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Nutzen Sie das POLYAS Template für Stimmzettel zum einfachen und zeitsparenden Anlegen Ihrer Listenwahl im Online-Wahlkonfigurator."
+        },
+        {
+          "type": "strong",
+          "value": "Folgende Listenwahlen stehen zur Auswahl:"
+        },
+        {
+          "type": "ol",
+          "value": [
+            {
+              "type": "li",
+              "value": "Starre Listenwahl: Die Wahlberechtigten entscheiden sich für eine Liste."
+            },
+            {
+              "type": "li",
+              "value": "Lose gebundene Listenwahl: Die Stimmen werden auf die Kandidaten einer Liste verteilt."
+            },
+            {
+              "type": "li",
+              "value": "Freie Listenwahl: Die Stimmen werden auf die Kandidaten aller Listen verteilt."
+            }
+          ]
+        }
+      ],
+      "NAME": "Stimmzettel zur Listenwahl"
+    },
+    "LOGIN_DATA_BY_MAIL": {
+      "DESCRIPTION": "Versenden Sie die Wahleinladungen für Ihre Online-Wahl postalisch.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Die Zugangsdaten können an die Wahlberechtigten per Post versendet werden.  Bei manchen Rechtsformen ist die postalische Zustellung der Wahleinladung vorgegeben, um die Online-Wahl rechtssicher durchzuführen. \nGemeinsam mit dem POLYAS Partnernetzwerk bieten wir Ihnen höchsten Komfort  unter Einhaltung aller datenschutzrechtlichen Anforderungen."
+        },
+        {
+          "type": "strong",
+          "value": "So funktioniert's: "
+        },
+        {
+          "type": "p",
+          "value": "Sie übermitteln die Postadressen der Wahlberechtigten an den Druckdienstleister und POLYAS übermittelt die Wähler-Zugangsdaten in verschlüsseltem Format. Druck, Kuvertierung und Versand erfolgen aus einer Hand. Bitte kontaktieren Sie die POLYAS Wahlexperten für ein unverbindliches Angebot!"
+        }
+      ],
+      "NAME": "Wähler-Zugangsdaten per Post"
+    },
+    "MAIL_SERVER": {
+      "DESCRIPTION": "Fuga aspernatur sint error molestias numquam dolorum eveniet cum velit?",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "Mailserver"
+    },
+    "MONITORING": {
+      "DESCRIPTION": "Monitoren Sie den Status der Wahlbeteiligung und abonnieren Sie den \ntäglichen Report per E-Mail.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Bei einer Online-Wahl mit POLYAS können Sie die Entwicklung der Wahlbeteiligung während der Wahl  verfolgen und so entscheiden, \nob es notwendig ist Wahlerinnerungen zu versenden. Nutzen Sie die komfortable Möglichkeit sich die Wahlbeteiligung täglich per E-Mail zusenden zu lassen."
+        },
+        {
+          "type": "strong",
+          "value": "So funktioniert's: "
+        },
+        {
+          "type": "p",
+          "value": "Tragen Sie in das untenstehende Feld die E-Mailadresse ein, an die der tägliche Report zur Wahlbeteiligung gesendet werden soll."
+        }
+      ],
+      "NAME": "Täglicher Report: Wahlbeteiligung"
+    },
+    "MULTIPLE_LANGUAGES": {
+      "DESCRIPTION": "Führen Sie eine mehrsprachige Online-Wahl mit übersetzten Stimmzetteln und Nutzerinformationen durch.",
+      "ERRORS": {
+        "DESTRUCTIVE_OPERATION": "Diese Änderung löscht möglicherweise bereits angelegte Datensätze, möchten Sie wirklich fortfahren?",
+        "INSUFFICIENT_ENABLED_LANGUAGES": "Für die Mehrsprachigkeit müssen mindestens 2 Sprachen aktiviert sein."
+      },
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Gestalten Sie die Stimmzettel und die Nutzerinformationen im POLYAS Online-Wahlsystems in verschiedenen Sprachen und\n sprechen Sie alle Wahlberechtigten in derjenigen Sprache an, die sie sich wünschen und analysieren Sie trotzdem alle Ergebnisse in einem einzigen Datenbestand."
+        },
+        {
+          "type": "strong",
+          "value": "So funktioniert's:"
+        },
+        {
+          "type": "p",
+          "value": "Sie können eine mehrsprachige Online-Wahl erstellen, indem Sie zusätzliche Sprachen zu Ihrer Umfrage hinzufügen. Bei POLYAS können Sie aus den Standardsprachen Deutsch und Englisch wählen."
+        },
+        {
+          "type": "strong",
+          "value": "TIPP:"
+        },
+        {
+          "type": "p",
+          "value": "Geben Sie eigene Übersetzungen an oder fügen Sie weitere Sprachen hinzu. Kontaktieren Sie die POLYAS Wahlexperten und lassen Sie sich unverbindlich beraten!"
+        }
+      ],
+      "NAME": "Mehrsprachige Online-Wahl"
+    },
+    "PIN_TAN_EXPORT": {
+      "DESCRIPTION": "Exportieren Sie die Zugangsdaten der Wahlberechtigten und versenden Sie diese selbst an Ihre Wähler.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Sie verfügen nicht über die E-Mailadressen aller Wahlberechtigten oder versenden die Zugangsdaten über einen alternativen Weg? Bei manchen Rechtsformen ist eine Zustellung der Wahleinladung auf postalischem Weg vorgegeben."
+        },
+        {
+          "type": "strong",
+          "value": "So funktioniert's:"
+        },
+        {
+          "type": "p",
+          "value": "Exportieren Sie die verschlüsselten Zugangsdaten zur Online-Wahl als Excel-Datei aus dem Online-Wahlkonfigurator und fügen Sie diese in das Wahlschreiben ein."
+        }
+      ],
+      "NAME": "Wähler-Zugangsdaten exportieren"
+    },
+    "REMINDER": {
+      "DESCRIPTION": "Steigern Sie die Wahlbeteiligung durch den Versand von Wahlerinnerungen per E-Mail.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Versenden Sie während der Wahl Wahlerinnerungen per E-Mail an Ihre Wahlberechtigten, um diese zur Stimmabgabe zu aktivieren. \n\nSo funktioniert's: Wählen Sie einen Versandzeitpunkt für die Wahlerinnerung innerhalb des Wahlzeitraums.\n\nTIPP: Segmentieren Sie Ihre Wahlberechtigten im Wählerverzeichnis in Wählergruppen und -segmente je nach Wahlbezirk, Alter, Wohnort etc. Auf diese Weise können Sie jeder Wählergruppe die jeweils passenden Informationen in einer funktionalen Ansprache übermitteln. So steigern Sie das Zugehörigkeitsgefühl der Wahlberechtigten und die Wahlbeteiligung."
+        }
+      ],
+      "NAME": "Wahlerinnerungen per E-Mail"
+    },
+    "SECURE_LINK": {
+      "DESCRIPTION": "Nam odit voluptates omnis maxime quam quod, tenetur vero sapiente.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "Secure Link"
+    },
+    "TABLE_OF_CONTENTS": {
+      "DESCRIPTION": "Qui quia ducimus, doloremque eveniet cupiditate inventore voluptatibus quod temporibus?",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "Inhaltsverzeichnis"
+    },
+    "UNIWAHL": {
+      "DESCRIPTION": "Maiores cum obcaecati perferendis consequatur rerum voluptates consectetur numquam dolorem!",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "UniWahl"
+    },
+    "URL_REDIRECT": {
+      "DESCRIPTION": "Leiten Sie die Wähler nach Abschluss der Stimmabgabe auf eine von Ihnen gewünschte Website weiter.",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Sie können die Seite festlegen, die die Wahlberechtigten nach Abschluss Ihrer Online-Stimmabgabe sehen. \nDies kann zum Beispiel Ihre Homepage, eine Landing Page zu Ihrer Wahl oder auch eine Danke-Seite sein."
+        }
+      ],
+      "NAME": "URL-Weiterleitung"
+    },
+    "VALIDATE": {
+      "DESCRIPTION": "Eos deleniti perspiciatis corporis omnis molestias veniam sed excepturi iusto?",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "Zertifizierte Wahl"
+    },
+    "VOTER_ACCESS": {
+      "DESCRIPTION": "Nemo eius quibusdam nesciunt omnis magni, dolorem delectus totam assumenda!",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "Wählerzugang"
+    },
+    "VOTING_BLOCK": {
+      "DESCRIPTION": "Sit laborum ipsam dolor, magnam mollitia similique voluptate minima assumenda?",
+      "LONG_DESCRIPTION_ITEMS": [
+        {
+          "type": "p",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero voluptates neque id tenetur animi alias explicabo esse temporibus accusantium enim!"
+        }
+      ],
+      "NAME": "Wählergruppen"
+    }
+  },
+  "FEATURE_CATEGORY": {
+    "ADD_ONS": "Zusatzmodule",
+    "ALL": "Alle",
+    "Authentication": "Authentifizierung",
+    "Ballot": "Stimmzettel",
+    "BallotPapers": "Stimmzettel",
+    "Customization": "Individualisierung",
+    "DocumentationAndResults": "Wahldokumentation",
+    "ElectoralRoll": "Wählerverzeichnis",
+    "Function": "Wahldokumentation",
+    "Hosting": "Hosting",
+    "Mail": "Authentifizierung",
+    "Security": "Sicherheit",
+    "Service": "Service",
+    "Verification": "Verifikation",
+    "Visuals": "Individulisierungen",
+    "Voter": "Wählerverzeichnis",
+    "VoterCommunication": "Wählerkommunikation",
+    "VotingProcedures": "Wahlverfahren",
+    "VotingSystem": "Wahlverfahren"
+  },
+  "FEATURE_DETAIL": {
+    "ALREADY_ENABLED": "Dieses Feature ist bereits aktiviert.",
+    "CONFIRM_REMOVAL": "Wollen Sie dieses Feature wirklich entfernen? Diese Änderung löscht möglicherweise bereits angelegte Datensätze.",
+    "SETTINGS": "Einstellungen",
+    "TITLE": "Feature Detail"
+  },
+  "FEATURE_OVERVIEW": {
+    "NO_RESULTS": "Zu Ihrer Suche wurden keine Features gefunden.",
+    "TITLE": "Praktische Zusatz-Features für Ihre Wahl"
+  },
+  "FEATURE_TAG": {
+    "COMING_SOON": "Demnächst",
+    "NEW": "Neu",
+    "PRO": "Pro"
+  },
+  "GENERAL": {
+    "ABORT": "Abbrechen",
+    "ACCEPT": "Übernehmen",
+    "CELLS": "Zellen",
+    "CHOOSE": "Auswahl",
+    "COLS": "Spalten",
+    "COLUMN_HEADINGS": "Spaltentitel",
+    "CONTENT": "Inhalt",
+    "CONTINUE": "Weiter",
+    "CREATE_ELECTION": "Neue Wahl erstellen",
+    "DATE": "Datum",
+    "DEFAULT": "Standard",
+    "EMAIL": "E-Mail",
+    "ERROR": "Fehler",
+    "GO_TO_DASHBOARD": "Zurück zur Startseite",
+    "HEADLINE": "Kopfzeile",
+    "LOGIN": "Anmelden",
+    "LOGIN_SUCCESS": "Sie haben sich erfolgreich angemeldet.",
+    "LOGIN_TO_START_ELECTION": "Bitte melden sie sich an, um die Wahl zu starten.",
+    "LOGOUT": "Abmelden",
+    "NAME": "Name",
+    "REQUIRED": "Pflichtangabe",
+    "ROWS": "Zeilen",
+    "TEXT": "Text",
+    "TIME": "Uhrzeit",
+    "TYPE": "Typ",
+    "UNIQUE": "eindeutig",
+    "VALUE": "Wert",
+    "VAT_ADD": "zzgl. Mwst. 19%",
+    "VAT_EXC": "excl. Mwst.",
+    "VAT_INC": "inkl. Mwst."
+  },
+  "GENERAL_ERROR_TITLE": "Es ist ein Fehler aufgetreten.",
+  "GLOBAL_ELECTION_SETTINGS": {
+    "COMMUNICATION": {
+      "DESCRIPTION": "Hier können Sie den Text Ihrer Wahleinladungen anzupassen.",
+      "LINK": "Die Wahleinladungen werden per E-Mail an die Wahlberechtigten versendet.",
+      "TITLE": "Kommunikation"
+    },
+    "PERIOD": {
+      "DESCRIPTION": "Legen Sie hier den Wahlzeitraum für Ihre Online-Wahl fest. Die Wahleinladungen werden zum Wahlbeginn an die Wahlberechtigten versendet.",
+      "TITLE": "Wahlzeitraum"
+    }
+  },
+  "LANGUAGE_SETTINGS": {
+    "AVAILABLE_LANGUAGES": "Verfügbare Sprachen"
+  },
+  "LEGAL_LINKS": {
+    "IMPRINT": {
+      "TEXT": "Impressum",
+      "URL": "https://www.polyas.de/impressum"
+    },
+    "PRIVACY": {
+      "TEXT": "Datenschutz",
+      "URL": "https://www.polyas.de/datenschutz"
+    },
+    "TERMS": {
+      "TEXT": "AGB",
+      "URL": "https://www.polyas.de/agb"
+    },
+    "WEBSITE": {
+      "TEXT": "POLYAS Website",
+      "URL": "https://www.polyas.de"
+    }
+  },
+  "LOGGED_OUT": {
+    "DESCRIPTION": "Sie haben sich erfolgreich vom System abgemeldet.",
+    "REASON": {
+      "AUTHENTICATION": {
+        "INVALID": "Sie wurden aufgrund von Inaktivität automatisch vom System abgemeldet."
+      },
+      "GENERAL": {
+        "UNAUTHORIZED": "Sie haben keine Berechtigung diesen Inhalt zu sehen."
+      }
+    },
+    "TITLE": "Die Abmeldung war erfolgreich."
+  },
+  "LOGIN": {
+    "APPLY_LEGAL": "Mit Ihrer Registrierung erklären Sie sich mit unseren {{termslink}} und unserer {{privacylink}} einverstanden.",
+    "CREATE_ACCOUNT": "Willkommen bei POLYAS",
+    "REGISTER_FREE": "Kostenlos registrieren",
+    "ERROR": {
+      "CREDENTIALS": "Die Kombination aus E-Mail und Passwort ist nicht bekannt.",
+      "EMAIL_VALIDATION": "Die E-Mail-Adresse konnte nicht bestätigt werden.",
+      "JSON_INVALID": "Es ist ein Serverfehler aufgetreten. Bitte versuchen Sie es erneut. Sollten Sie weiterhin Probleme haben, kontaktieren Sie den Support.",
+      "USER_EXISTS": "Dieser Nutzer existiert bereits"
+    },
+    "LABEL_EMAIL": "E-Mail Adresse",
+    "LABEL_PASSWORD": "Passwort (mind. 10 Zeichen)",
+    "LABEL_PASSWORDREPEAT": "Passwort wiederholen",
+    "LINKTEXT_PASSWORD_FORGOT": "Passwort vergessen?",
+    "LOGIN": "Anmelden",
+    "LOGIN_DESCR": "Loggen Sie sich mit Ihren Zugangsdaten ein, um Ihre Wahlen jetzt zu bearbeiten.",
+    "LOGIN_DESCR_VOTE": "Bitte melden Sie sich an, um die Wahl zu starten.",
+    "PRIVACY_LINKTEXT": "Datenschutzerklärung",
+    "REGISTER_SUCCESS": {
+      "TEXT": "Wir haben eine E-Mail an die angegebene E-Mailadresse  gesendet. Bitte prüfen Sie Ihren Posteingang und klicken Sie auf den Aktivierungslink.",
+      "TITLE": "Willkommen bei Polyas"
+    },
+    "RESET_PASSWORD": "Passwort anfordern",
+    "RESET_PASSWORD_SUCCESS": {
+      "TEXT": "Wir haben Ihnen eine E-Mail an die von Ihnen angegebene E-Mailadresse gesendet. Bitte prüfen Sie ihren Posteingang.",
+      "TITLE": "Passwort angefordert"
+    },
+    "TERMS_LINKTEXT": "Allgemeinen Geschäftsbedingungen",
+    "VALIDATE_EMAIL": {
+      "TEXT_SUCCESS": "Ihre E-Mail-Adresse ist nun bestätigt."
+    }
+  },
+  "NETWORK_ERROR_TITLE": "Ein Netzwerkfehler ist aufgetreten",
+  "NOT_FOUND": {
+    "PAGE": "Die von Ihnen aufgerufene Seite konnte nicht gefunden werden."
+  },
+  "REMOVE_FEATURE": "Entfernen",
+  "SEARCH": "Suche",
+  "START": {
+    "BUTTON": "Ohne Anmeldung testen",
+    "HEADER": "Neu bei POLYAS?",
+    "TEXT": "Jetzt noch einfacher sichere Online-Wahlen und Abstimmungen erstellen.",
+    "LEGAL_TEXT": "Es gelten unsere {{termslink}} samt Anlage Vereinbarung zur Auftragsverarbeitung. Mit Registrierung erhalten Sie Informationen zu uns und unseren Produkten per E-Mail, Sie können dem Erhalt solcher E-Mails jederzeit kostenlos widersprechen. Hinweise zum Datenschutz finden Sie in unserer {{privacylink}}."
+  },
+  "TABLE": {
+    "ADD_COL_LEFT": "Spalte links hinzufügen",
+    "ADD_COL_RIGHT": "Spalte rechts hinzufügen",
+    "ADD_ROW_ABOVE": "Zeile oberhalb hinzufügen",
+    "ADD_ROW_BELOW": "Zeile unterhalb hinzufügen",
+    "DELETE_COL": "Spalte löschen",
+    "DELETE_ROW": "Zeile löschen",
+    "DELETE_VOTER": "Wähler löschen"
+  },
+  "TEASER": {
+    "BALLOTS": {
+      "HEADLINE": "Stimmzettel"
+    },
+    "REGISTRY": {
+      "HEADLINE": "Wahlberechtigte"
+    },
+    "SETTINGS": {
+      "HEADLINE": "Einstellungen"
+    }
+  },
+  "THANKYOU": {
+    "TEXT": "Ihre Wahl wird nun versiegelt und die Wahleinladungen werden versandt.",
+    "TITLE": "Vielen Dank für Ihre Bestellung"
+  },
+  "TOOLTIP": {
+    "CONFIGURE_MODAL_BUTTON": {
+      "ONBOARDING": "Klicken Sie hier, um <br/>die Einstellungen für den <br/>Stimmzettel anzupassen",
+      "STANDARD": "Einstellungen Stimmzettel"
+    },
+    "CONFIGURE_SETTINGS_BUTTON": {
+      "ONBOARDING": "Klicken Sie hier um den Wahlzeitraum und die Details der Wählerkommunikation anzupassen.",
+      "STANDARD": "Wahleinstellungen"
+    },
+    "CONFIGURE_VOTERS_MODAL_BUTTON": {
+      "ONBOARDING": "Standardmäßig gehen wir von einer Liste mit E-Mailadressen aus, an die wir die Zugangsdaten versenden. In Zukunft können Sie hier weitere Einstellungen vornehmen.",
+      "STANDARD": "Einstellungen Wählerverzeichnis"
+    },
+    "FEATURE_OVERVIEW": {
+      "ONBOARDING": "Hier finden Sie nützliche <br>Zusatzfunktionen",
+      "STANDARD": "Hier finden Sie nützliche <br>Zusatzfunktionen"
+    },
+    "VOTER_SETTINGS": {
+      "EMAIL_REQUIRED": "Für den Versand der Zugangsdaten an die Wahlberechtigten benötigen wir eine gültige E-Mailadresse.",
+      "EMAIL_UNIQUE": "Die E-Mail Adresse darf nur einmal im Wählerverzeichnis benutzt werden."
+    }
+  },
+  "UNTITLED_PLACEHOLDERS": {
+    "BALLOT_HEADING": "Titel eingeben",
+    "COLUMN_HEADING": "Spaltentitel eingeben",
+    "ELECTION_TITLE": "Unbenannte Wahl"
+  },
+  "USER": {
+    "PROFILE": "Profil"
+  },
+  "VALIDATION": {
+    "BALLOTS": {
+      "NAME": "Stimmzettel",
+      "NOCANDIDATES": "Es sind keine Kandidaten vorhanden."
+    },
+    "CANNOT_START_ELECTION": "Die Wahl kann nicht gestartet werden.",
+    "CHECK_ERRORS": "Bitte überprüfen Sie folgende Daten:",
+    "ELECTION": {
+      "NAME": "Wahleinstellungen",
+      "SCHEDULE": {
+        "INVALIDSTART": "Das Startdatum ist ungültig."
+      }
+    },
+    "ELECTION_IS_VALIDATING": "Wahl wird überprüft ...",
+    "EMAIL": {
+      "FORMAT": "Die E-Mail Adresse ist nicht gültig.",
+      "REQUIRED": "Das Feld E-Mail Adresse darf nicht leer sein."
+    },
+    "PASSWORD": {
+      "MIN": "Das Passwort muss mind. 10 Zeichen lang sein.",
+      "REQUIRED": "Das Feld Passwort darf nicht leer sein."
+    },
+    "PASSWORDREPEAT": {
+      "NOMATCH": "Die eingegebenen Passwörter stimmen nicht überein.",
+      "REQUIRED": "Das Feld Passwortwiederholung darf nicht leer sein."
+    },
+    "REGISTRY": {
+      "NAME": "Wählerverzeichnis",
+      "NOVOTERS": "Es sind keine Wahlberechtigten vorhanden."
+    }
+  },
+  "VOTERS_SETTINGS": {
+    "DROPZONE_TEXT": {
+      "ACCEPT": ".xlsx Datei hier ablegen.",
+      "REJECT": "Bitte nur Dateien vom Typ .xlsx ablegen.",
+      "STANDARD": ".xlsx Datei hier ablegen oder durchsuchen."
+    }
+  },
+  "WELCOMEPAGE": {
+    "EASY_MANAGEMENT": "Einfaches Management",
+    "HIGHLY_SECURE": "Höchste Sicherheit",
+    "ACTIVE_TURNOUT": "Aktive Wahlbeteiligung"
+  }
+}
