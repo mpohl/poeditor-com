@@ -12,11 +12,5 @@
     },
     "ANALYZING": {
         "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
-    },
-    "VOTERCONFIG.VALIDATION.VOTER.REGISTRY.NO": {
-        "VOTERS": "Wähler"
-    },
-    "VOTERCONFIG.VALIDATION": {
-        "TEST": ""
     }
 }
