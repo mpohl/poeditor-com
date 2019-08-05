@@ -10,6 +10,25 @@
         "IT": "Italienisch",
         "SV": "Schwedisch"
     },
+    "VOTERCONFIG": {
+    "VALIDATION": {
+      "VOTER": {
+        "REGISTRY": {
+          "NO": {
+            "VOTERS": "Sie haben keine Wahlberechtigten hinzugefügt"
+          },
+          "HAS_N_ERRORS": "Es wurde ein fehlerhafter Eintrag gefunden.",
+          "HAS_N_ERRORS_plural": "Es wurden {{count}} fehlerhafte Einträge gefunden."
+        }
+      }
+    },
+    "SCHEMA": {
+      "DESCRIPTION": "Legen Sie fest, welche Angaben der Wahlberechtigten im Wählerverzeichnis hinterlegt werden sollen.",
+      "VALIDATION": {
+        "PIN_COLUMN_NOT_DEFINED": "Es wurde kein Wählerattribut als Wähler-ID festgelegt."
+      }
+    }
+  },
     "ANALYZING": {
         "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
     }
