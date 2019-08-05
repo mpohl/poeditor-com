@@ -9,5 +9,8 @@
     "FR": "French",
     "IT": "Italian",
     "SV": "Swedish"
-  }
+  },
+  "ANALYZING": {
+      "TITLE": "Voter registry gets analysed: {{progress}}%"
+    }
 }
