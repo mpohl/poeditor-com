@@ -12,11 +12,5 @@
     },
     "ANALYZING": {
         "TITLE": "Voter registry gets analysed: {{progress}}%"
-    },
-    "VOTERCONFIG.VALIDATION.VOTER.REGISTRY.NO": {
-        "VOTERS": ""
-    },
-    "VOTERCONFIG.VALIDATION": {
-        "TEST": ""
     }
 }
