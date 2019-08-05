@@ -11,6 +11,9 @@
         "SV": "Schwedisch"
     },
     "ANALYZING": {
-      "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
+        "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
+    },
+    "VOTERCONFIG.VALIDATION.VOTER.REGISTRY.NO": {
+        "VOTERS": ""
     }
 }
