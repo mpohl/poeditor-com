@@ -15,5 +15,8 @@
     },
     "VOTERCONFIG.VALIDATION.VOTER.REGISTRY.NO": {
         "VOTERS": ""
+    },
+    "VOTERCONFIG.VALIDATION": {
+        "TEST": ""
     }
 }
