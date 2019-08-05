@@ -9,7 +9,7 @@
         "FR": "Französisch",
         "IT": "Italienisch",
         "SV": "Schwedisch"
-    }
+    },
     "ANALYZING": {
       "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
     }
