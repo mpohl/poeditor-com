@@ -1,16 +1,19 @@
 {
-  "404": {
-    "TITLE": "The page you have requested could not be found."
-  },
-  "ADD_FEATURE": "Add",
-  "ALPHA2": {
-    "DE": "German",
-    "EN": "English",
-    "FR": "French",
-    "IT": "Italian",
-    "SV": "Swedish"
-  },
-  "ANALYZING": {
-      "TITLE": "Voter registry gets analysed: {{progress}}%"
+    "404": {
+        "TITLE": "The page you have requested could not be found."
+    },
+    "ADD_FEATURE": "Add",
+    "ALPHA2": {
+        "DE": "German",
+        "EN": "English",
+        "FR": "French",
+        "IT": "Italian",
+        "SV": "Swedish"
+    },
+    "ANALYZING": {
+        "TITLE": "Voter registry gets analysed: {{progress}}%"
+    },
+    "VOTERCONFIG.VALIDATION.VOTER.REGISTRY.NO": {
+        "VOTERS": ""
     }
 }
