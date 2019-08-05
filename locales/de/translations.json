@@ -32,6 +32,9 @@
             },
             "TEST": "TEST_DE",
             "TEST2": "Test 2 DE"
+        },
+        "BUMMSFALLERA":{
+            "A":"a_de"
         }
     }
 }
