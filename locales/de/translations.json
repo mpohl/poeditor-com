@@ -1,5 +1,4 @@
 {
-    "test" : "test_de",
     "404": {
         "TITLE": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden."
     },
@@ -34,5 +33,6 @@
             "TEST": "TEST_DE",
             "TEST2": "Test 2 DE"
         }
-    }
+    },
+    "test": "test_de"
 }
