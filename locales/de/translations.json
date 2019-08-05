@@ -30,7 +30,8 @@
             "VALIDATION": {
                 "PIN_COLUMN_NOT_DEFINED": "Es wurde kein Wählerattribut als Wähler-ID festgelegt."
             },
-            "TEST": ""
+            "TEST": "TEST_DE",
+            "TEST2": "Test 2 DE"
         }
     }
 }
