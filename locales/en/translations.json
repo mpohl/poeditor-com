@@ -12,5 +12,24 @@
     },
     "ANALYZING": {
         "TITLE": "Voter registry gets analysed: {{progress}}%"
+    },
+    "VOTERCONFIG": {
+    "VALIDATION": {
+      "VOTER": {
+        "REGISTRY": {
+          "NO": {
+            "VOTERS": "There are no voters"
+          },
+          "HAS_N_ERRORS": "There is 1 invalid entry.",
+          "HAS_N_ERRORS_plural": "There are {{count}} invalid entries."
+        }
+      }
+    },
+    "SCHEMA": {
+      "DESCRIPTION": "Determine which details of your voters are to be stored in the electoral register.",
+      "VALIDATION": {
+        "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
+      }
     }
+  }
 }
