@@ -27,6 +27,7 @@
     "VALIDATION": {
       "VOTER": {
         "REGISTRY": {
+          "YES": "Ja",
           "NO": {
             "VOTERS": "Sie haben keine Wahlberechtigten hinzugefügt"
           },
