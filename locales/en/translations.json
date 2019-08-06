@@ -27,6 +27,7 @@
     "VALIDATION": {
       "VOTER": {
         "REGISTRY": {
+          "YES": "YES FROM Intellij",
           "NO": {
             "VOTERS": "There are no voters"
           },
