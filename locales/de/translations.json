@@ -1,36 +1,38 @@
 {
-    "404": {
-        "TITLE": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden. FROM GIT!"
+  "404": {
+    "TITLE": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden. FROM GIT!"
+  },
+  "ADD_FEATURE": "Hinzufügen",
+  "ALPHA2": {
+    "DE": "Deutsch",
+    "EN": "Englisch",
+    "FR": "Französisch",
+    "IT": "Italienisch",
+    "SV": "Schwedisch"
+  },
+  "ANALYZING": {
+    "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
+  },
+  "VOTERCONFIG": {
+    "SCHEMA": {
+      "DESCRIPTION": "Legen Sie fest, welche Angaben der Wahlberechtigten im Wählerverzeichnis hinterlegt werden sollen.",
+      "TEST": "TEST_DE",
+      "TEST2": "Test 2 DE _ new Translation",
+      "TEST3": "Test 2 DE ",
+      "VALIDATION": {
+        "PIN_COLUMN_NOT_DEFINED": "Es wurde kein Wählerattribut als Wähler-ID festgelegt."
+      }
     },
-    "ADD_FEATURE": "Hinzufügen",
-    "ALPHA2": {
-        "DE": "Deutsch",
-        "EN": "Englisch",
-        "FR": "Französisch",
-        "IT": "Italienisch",
-        "SV": "Schwedisch"
-    },
-    "ANALYZING": {
-        "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
-    },
-    "VOTERCONFIG": {
-        "VALIDATION": {
-            "VOTER": {
-                "REGISTRY": {
-                    "NO": {
-                        "VOTERS": "Sie haben keine Wahlberechtigten hinzugefügt"
-                    },
-                    "HAS_N_ERRORS": "Es wurde ein fehlerhafter Eintrag gefunden.",
-                    "HAS_N_ERRORS_plural": "Es wurden {{count}} fehlerhafte Einträge gefunden."
-                }
-            }
-        },
-        "SCHEMA": {
-            "DESCRIPTION": "Legen Sie fest, welche Angaben der Wahlberechtigten im Wählerverzeichnis hinterlegt werden sollen.",
-            "VALIDATION": {
-                "PIN_COLUMN_NOT_DEFINED": "Es wurde kein Wählerattribut als Wähler-ID festgelegt."
-            },
-            "TEST3": "Test 2 DE _ new Translation"
+    "VALIDATION": {
+      "VOTER": {
+        "REGISTRY": {
+          "NO": {
+            "VOTERS": "Sie haben keine Wahlberechtigten hinzugefügt"
+          },
+          "HAS_N_ERRORS": "Es wurde ein fehlerhafter Eintrag gefunden.",
+          "HAS_N_ERRORS_plural": "Es wurden {{count}} fehlerhafte Einträge gefunden."
         }
+      }
     }
+  }
 }

@@ -1,37 +1,38 @@
 {
-    "404": {
-        "TITLE": "The page you have requested could not be found."
+  "404": {
+    "TITLE": "Sorry, the page you accessed could not be found. FROM GIT!"
+  },
+  "ADD_FEATURE": "Add",
+  "ALPHA2": {
+    "DE": "German",
+    "EN": "English",
+    "FR": "French",
+    "IT": "Italian",
+    "SV": "Swedish"
+  },
+  "ANALYZING": {
+    "TITLE": "Voter registry gets analysed: {{progress}}%"
+  },
+  "VOTERCONFIG": {
+    "SCHEMA": {
+      "DESCRIPTION": "Determine which details of your voters are to be stored in the electoral register.",
+      "TEST": "TEST_EN",
+      "TEST2": "Test2 EN",
+      "TEST3": "Test 3 EN",
+      "VALIDATION": {
+        "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
+      }
     },
-    "ADD_FEATURE": "Add",
-    "ALPHA2": {
-        "DE": "German",
-        "EN": "English",
-        "FR": "French",
-        "IT": "Italian",
-        "SV": "Swedish"
-    },
-    "ANALYZING": {
-        "TITLE": "Voter registry gets analysed: {{progress}}%"
-    },
-    "VOTERCONFIG": {
-        "VALIDATION": {
-            "VOTER": {
-                "REGISTRY": {
-                    "NO": {
-                        "VOTERS": "There are no voters"
-                    },
-                    "HAS_N_ERRORS": "There is 1 invalid entry.",
-                    "HAS_N_ERRORS_plural": "There are {{count}} invalid entries."
-                }
-            }
-        },
-        "SCHEMA": {
-            "DESCRIPTION": "Determine which details of your voters are to be stored in the electoral register.",
-            "VALIDATION": {
-                "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
-            },
-            "TEST": "TEST_EN",
-            "TEST2": "Test2 EN"
+    "VALIDATION": {
+      "VOTER": {
+        "REGISTRY": {
+          "NO": {
+            "VOTERS": "There are no voters"
+          },
+          "HAS_N_ERRORS": "There is 1 invalid entry.",
+          "HAS_N_ERRORS_plural": "There are {{count}} invalid entries."
         }
+      }
     }
+  }
 }
