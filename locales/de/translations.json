@@ -6,7 +6,7 @@
   "ALPHA2": {
     "BG": "Bulgarisch (DE)",
     "DE": "Deutsch",
-    "EN": "Englisch (EN)",
+    "EN": "Englisch (EN) dfdfdfdfg",
     "FR": "Französisch",
     "IT": "Italienisch",
     "SV": "Schwedisch"
@@ -27,10 +27,10 @@
     "VALIDATION": {
       "VOTER": {
         "REGISTRY": {
-          "YES": "Ja",
           "NO": {
             "VOTERS": "Sie haben keine Wahlberechtigten hinzugefügt"
           },
+          "YES": "Ja",
           "HAS_N_ERRORS": "Es wurde ein fehlerhafter Eintrag gefunden.",
           "HAS_N_ERRORS_plural": "Es wurden {{count}} fehlerhafte Einträge gefunden."
         }
