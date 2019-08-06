@@ -4,8 +4,9 @@
   },
   "ADD_FEATURE": "Hinzufügen",
   "ALPHA2": {
+    "BG": "Bulgarisch DE",
     "DE": "Deutsch",
-    "EN": "Englisch",
+    "EN": "Englisch (EN)",
     "FR": "Französisch",
     "IT": "Italienisch",
     "SV": "Schwedisch"
