@@ -27,9 +27,6 @@
       "VOTER": {
         "REGISTRY": {
           "MAYBE": "Maybe",
-          "NO": {
-            "VOTERS": "Sie haben keine Wahlberechtigten hinzugefügt"
-          },
           "YES": "Ja",
           "NO": "Nein",
           "HAS_N_ERRORS": "Es wurde ein fehlerhafter Eintrag gefunden.",

@@ -27,10 +27,8 @@
     "VALIDATION": {
       "VOTER": {
         "REGISTRY": {
-          "NO": {
-            "VOTERS": "There are no voters"
-          },
           "YES": "Yes",
+          "NO": "Nein!",
           "MAYBE": "",
           "HAS_N_ERRORS": "There is 1 invalid entry.",
           "HAS_N_ERRORS_plural": "There are {{count}} invalid entries."
