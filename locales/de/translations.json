@@ -1,38 +1,39 @@
 {
-  "404": {
-    "TITLE": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden. FROM GIT!"
-  },
-  "ADD_FEATURE": "Hinzufügen",
-  "ALPHA2": {
-    "BG": "Bulgarisch (DE)",
-    "DE": "Deutsch",
-    "EN": "Englisch (EN) dfdfdfdfg",
-    "FR": "Französisch",
-    "IT": "Italienisch"
-  },
-  "ANALYZING": {
-    "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
-  },
-  "VOTERCONFIG": {
-    "SCHEMA": {
-      "DESCRIPTION": "Legen Sie fest, welche Angaben der Wahlberechtigten im Wählerverzeichnis hinterlegt werden sollen.",
-      "TEST": "TEST_DE",
-      "TEST2": "Test 2 DE _ new Translation",
-      "TEST3": "Test 2 DE ",
-      "VALIDATION": {
-        "PIN_COLUMN_NOT_DEFINED": "Es wurde kein Wählerattribut als Wähler-ID festgelegt."
-      }
+    "404": {
+        "TITLE": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden. FROM GIT!"
     },
-    "VALIDATION": {
-      "VOTER": {
-        "REGISTRY": {
-          "MAYBE": "Maybe",
-          "YES": "Ja",
-          "NO": "Nein",
-          "HAS_N_ERRORS": "Es wurde ein fehlerhafter Eintrag gefunden.",
-          "HAS_N_ERRORS_plural": "Es wurden {{count}} fehlerhafte Einträge gefunden."
+    "ADD_FEATURE": "Hinzufügen",
+    "ALPHA2": {
+        "DE": "Deutsch",
+        "EN": "Englisch (EN)",
+        "FR": "Französisch",
+        "IT": "Italienisch",
+        "BG": "Bulgarisch (DE)",
+        "SV": ""
+    },
+    "ANALYZING": {
+        "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
+    },
+    "VOTERCONFIG": {
+        "VALIDATION": {
+            "VOTER": {
+                "REGISTRY": {
+                    "HAS_N_ERRORS": "Es wurde ein fehlerhafter Eintrag gefunden.",
+                    "HAS_N_ERRORS_plural": "Es wurden {{count}} fehlerhafte Einträge gefunden.",
+                    "YES": "Ja",
+                    "MAYBE": "Maybe",
+                    "NO": "Nein"
+                }
+            }
+        },
+        "SCHEMA": {
+            "DESCRIPTION": "Legen Sie fest, welche Angaben der Wahlberechtigten im Wählerverzeichnis hinterlegt werden sollen.",
+            "VALIDATION": {
+                "PIN_COLUMN_NOT_DEFINED": "Es wurde kein Wählerattribut als Wähler-ID festgelegt."
+            },
+            "TEST": "TEST_DE",
+            "TEST2": "Test 2 DE _ new Translation",
+            "TEST3": "Test 2 DE "
         }
-      }
     }
-  }
 }
