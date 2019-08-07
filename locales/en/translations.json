@@ -1,39 +1,39 @@
 {
-  "404": {
-    "TITLE": "Sorry, the page you accessed could not be found. FROM GIT!"
-  },
-  "ADD_FEATURE": "Add",
-  "ALPHA2": {
-    "BG": "Bulgarisch (EN)",
-    "DE": "German",
-    "EN": "English",
-    "FR": "French",
-    "IT": "Italian",
-    "SV": "Swedish"
-  },
-  "ANALYZING": {
-    "TITLE": "Voter registry gets analysed: {{progress}}%"
-  },
-  "VOTERCONFIG": {
-    "SCHEMA": {
-      "DESCRIPTION": "Determine which details of your voters are to be stored in the electoral register.",
-      "TEST": "TEST_EN",
-      "TEST2": "Test2 EN",
-      "TEST3": "Test 3 EN",
-      "VALIDATION": {
-        "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
-      }
+    "404": {
+        "TITLE": "Sorry, the page you accessed could not be found. FROM GIT!"
     },
-    "VALIDATION": {
-      "VOTER": {
-        "REGISTRY": {
-          "YES": "Yes",
-          "NO": "Nein!",
-          "MAYBE": "",
-          "HAS_N_ERRORS": "There is 1 invalid entry.",
-          "HAS_N_ERRORS_plural": "There are {{count}} invalid entries."
+    "ADD_FEATURE": "Add",
+    "ALPHA2": {
+        "DE": "German",
+        "EN": "English",
+        "FR": "French",
+        "IT": "Italian",
+        "BG": "Bulgarisch (EN)",
+        "SV": "Swedish"
+    },
+    "ANALYZING": {
+        "TITLE": "Voter registry gets analysed: {{progress}}%"
+    },
+    "VOTERCONFIG": {
+        "VALIDATION": {
+            "VOTER": {
+                "REGISTRY": {
+                    "HAS_N_ERRORS": "There is 1 invalid entry.",
+                    "HAS_N_ERRORS_plural": "There are {{count}} invalid entries.",
+                    "YES": "Yes",
+                    "MAYBE": "Maybe",
+                    "NO": "No"
+                }
+            }
+        },
+        "SCHEMA": {
+            "DESCRIPTION": "Determine which details of your voters are to be stored in the electoral register.",
+            "VALIDATION": {
+                "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
+            },
+            "TEST": "TEST_EN",
+            "TEST2": "Test2 EN",
+            "TEST3": "Test 3 EN"
         }
-      }
     }
-  }
 }
