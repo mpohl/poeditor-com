@@ -18,7 +18,10 @@
         "VALIDATION": {
             "VOTER": {
                 "REGISTRY": {
-                    "HAS_N_ERRORS": "There is 1 invalid entry.",
+                    "HAS_N_ERRORS": {
+                        "one": "There is 1 invalid entry.",
+                        "other": "There are {{count}} invalid entries. "
+                    },
                     "HAS_N_ERRORS_plural": "There are {{count}} invalid entries.",
                     "YES": "Yes",
                     "MAYBE": "Maybe",
@@ -29,7 +32,7 @@
         "SCHEMA": {
             "DESCRIPTION": "Determine which details of your voters are to be stored in the electoral register.",
             "VALIDATION": {
-              "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
+                "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
             }
         }
     }
