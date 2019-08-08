@@ -29,11 +29,8 @@
         "SCHEMA": {
             "DESCRIPTION": "Determine which details of your voters are to be stored in the electoral register.",
             "VALIDATION": {
-                "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
-            },
-            "TEST": "TEST_EN",
-            "TEST2": "Test2 EN",
-            "TEST3": "Test 3 EN"
+              "PIN_COLUMN_NOT_DEFINED": "Voter attribute PIN not set"
+            }
         }
     }
 }
