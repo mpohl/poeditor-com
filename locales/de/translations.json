@@ -1,6 +1,6 @@
 {
     "404": {
-        "TITLE": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden. FROM GIT!"
+        "TITLE": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden."
     },
     "ADD_FEATURE": "Hinzufügen",
     "ALPHA2": {
@@ -9,7 +9,7 @@
         "FR": "Französisch",
         "IT": "Italienisch",
         "BG": "Bulgarisch (DE)",
-        "SV": ""
+        "SV": "Schwedisch"
     },
     "ANALYZING": {
         "TITLE": "Wählerverzeichnis wird analysiert: {{progress}}%"
@@ -18,7 +18,10 @@
         "VALIDATION": {
             "VOTER": {
                 "REGISTRY": {
-                    "HAS_N_ERRORS": "Es wurde ein fehlerhafter Eintrag gefunden.",
+                    "HAS_N_ERRORS": {
+                        "one": "Es wurde ein fehlerhafter Eintrag gefunden.",
+                        "other": ""
+                    },
                     "HAS_N_ERRORS_plural": "Es wurden {{count}} fehlerhafte Einträge gefunden.",
                     "YES": "Ja",
                     "MAYBE": "Maybe",
